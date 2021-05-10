@@ -1,0 +1,16 @@
+{
+    "name": "xpsaas/tenancy",
+    "description": "xpsaas, tenancy libs!",
+    "type": "library",
+    "require": {
+        "laravel/lumen-framework": "^7.1"
+    },
+    "require-dev": {
+        "laravel/lumen-framework": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xpsaas\\Tenancy\\": "src/"
+        }
+    }
+}
